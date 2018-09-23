@@ -11,15 +11,15 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/arifistifik/sb
-$ cd sb
+$ https://github.com/dam3aself/mybot.git
+$ cd mybot
 $ python sb.py
 ```
 
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/arifistifik/sb
+$ https://github.com/dam3aself/mybot.git
 $ cd sb
 $ python3 sb.py
 ```
@@ -29,6 +29,6 @@ $ python3 sb.py
 for the first time running python helloworld.py will be an error
 
 ## LINE
-[DRAGON PLAY KILL]
+[dam3aa]
 
-## Thanks For Allmastah
+## Thanks For dam3a teem
