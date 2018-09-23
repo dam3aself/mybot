@@ -20,7 +20,7 @@ $ python sb.py
 
 ```sh
 $ https://github.com/dam3aself/mybot.git
-$ cd sb
+$ cd mybot
 $ python3 sb.py
 ```
 
